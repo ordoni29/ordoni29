@@ -1,16 +1,19 @@
-### Hi there 👋
+*****BOAS VINDAS AO MEU PERFIL***** 💙💙
 
-<!--
-**ordoni29/ordoni29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Maria Eduarda Ordoni
 
-Here are some ideas to get you started:
+Estou estudando na Alura
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou me desenvolvendo na linguagem JavaScript
+
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+*****VOCE PODE ENTRAR EM CONTATO COMIGO POR E-MAIL OU INSTAGRAM 📫*****
+
+00001121150998sp@al.educacao.sp.gov.br
+
+@m3.maah
+
+*****AGRADEÇO A COMPREENSÃO!!!!*****
+
+> *****Eu queria que você soubesse que eu adoro o jeito que você sorri e seus olhos, o brilho dele.*****
